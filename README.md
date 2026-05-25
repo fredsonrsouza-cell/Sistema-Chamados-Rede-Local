@@ -5,7 +5,7 @@
 - Alexandre Brito de Santana
 - Fredson Rafael Silva Souza
 - Julia Das Neves Paim
-- Luma Cristina de Souza Barbora
+- Luma Cristina de Souza Barbosa
 - Murilo de Assis dos Santos de Oliveira
 
 ## Função de cada integrante
